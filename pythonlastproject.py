@@ -20,5 +20,4 @@ list2.reverse()
 for list2for in list2:
     list2for.reverse()
 print(list2)
-
-
+print("hassczx")
